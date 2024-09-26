@@ -1,5 +1,6 @@
 * For Windows OS
 
+
 # Godot 4 için Rust Entegrasyonu
 
 Bu proje, Godot 4 oyun motoru için Rust dil entegrasyonunu sağlar. Bu entegrasyon, Godot'un güçlü oyun geliştirme araçlarını ve sahne sistemini, Rust'ın yüksek performanslı ve güvenli programlama özellikleri ile birleştirir.
